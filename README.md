@@ -1,4 +1,4 @@
 # Character-Selection
 
-## Extract the Zip File
-## Open Character Selection Menu .exe
+Extract the Zip File
+Open Character Selection Menu .exe
